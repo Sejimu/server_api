@@ -1,34 +1,29 @@
 {
-  "TODOS": [
+  "todos": [
     {
-      "title": "Updated Todo",
-      "completed": true,
-      "userId": "2",
-      "id": 31
+      "id": 1,
+      "title": "Write in a journal",
+      "completed": false
     },
     {
-      "title": "new Todo",
-      "completed": true,
-      "userId": "2",
-      "id": 33
+      "id": 2,
+      "title": "Volunteer for a cause",
+      "completed": false
     },
     {
-      "title": "again",
-      "completed": true,
-      "userId": "2",
-      "id": 35
+      "id": 3,
+      "title": "Take a digital detox day",
+      "completed": false
     },
     {
-      "title": "qwert",
-      "completed": true,
-      "userId": "2",
-      "id": 36
+      "id": 4,
+      "title": "Write in a journal",
+      "completed": false
     },
     {
-      "title": "chat gpt making life better and easier",
-      "completed": true,
-      "userId": "2",
-      "id": 37
+      "id": 5,
+      "title": "Do a puzzle",
+      "completed": false
     }
   ]
 }
